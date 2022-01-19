@@ -3,8 +3,9 @@
 @import "variables.css";
 
 @import "status-bar.css";
-
+@import "nav-bar.css";
 
 body {
     font-family: 'Open Sans', sans-serif;
+    height: 1000vh;
 }
